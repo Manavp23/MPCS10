@@ -24,5 +24,10 @@ public class BingoCard
 
 }
 /* Screen Dump
- 
+B	I	N	G	O
+2	20	42	60	64
+14	25	32	55	70
+5	18 FREE 53	67
+12	16	31	46	75
+10	22	39	59	71
  */
