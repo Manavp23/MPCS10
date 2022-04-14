@@ -1,6 +1,6 @@
 /*
 
-Program: MyInitials.java          Date: April 13, 2022
+Program: Assignment6.java          Date: April 13, 2022
 
 
 Author: Manav Pandya 
