@@ -1,4 +1,13 @@
+/*
 
+Program: MyInitials.java          Date: April 26, 2022
+
+
+Author: Manav Pandya 
+School: CHHS
+Course: Computer Science 10
+ 
+*/
 package Assignments;
 
 import java.util.Scanner;
