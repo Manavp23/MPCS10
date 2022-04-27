@@ -12,6 +12,7 @@ public class Ex01
 	case 2:
    System.out.println("Sunday");
    break;
+	
 	} 
 
 
