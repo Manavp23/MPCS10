@@ -1,3 +1,13 @@
+/*
+
+Program: Assignment15.java          Date: April 28, 2022
+
+
+Author: Manav Pandya 
+School: CHHS
+Course: Computer Science 10
+ 
+*/
 package Assignments;
 
 import java.util.Random;
